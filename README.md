@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @namepods
+- 👀 I’m interested in leraning react, vue and front dev
